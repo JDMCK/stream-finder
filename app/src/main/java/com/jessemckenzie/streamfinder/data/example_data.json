@@ -1,0 +1,95 @@
+{
+  "title_results": [
+    {
+      "resultType": "title",
+      "id": 3173903,
+      "name": "Breaking Bad",
+      "type": "tv_series",
+      "year": 2008,
+      "imdb_id": "tt0903747",
+      "tmdb_id": 1396,
+      "tmdb_type": "tv"
+    },
+    {
+      "resultType": "title",
+      "id": 3203841,
+      "name": "Breaking Bad Fortune Teller",
+      "type": "tv_series",
+      "year": 2016,
+      "imdb_id": null,
+      "tmdb_id": 232533,
+      "tmdb_type": "tv"
+    },
+    {
+      "resultType": "title",
+      "id": 1770490,
+      "name": "Breaking Bad",
+      "type": "movie",
+      "year": null,
+      "imdb_id": null,
+      "tmdb_id": 1215230,
+      "tmdb_type": "movie"
+    },
+    {
+      "resultType": "title",
+      "id": 4146033,
+      "name": "Breaking Bad Wolf",
+      "type": "tv_movie",
+      "year": 2018,
+      "imdb_id": "tt9746510",
+      "tmdb_id": 635602,
+      "tmdb_type": "movie"
+    },
+    {
+      "resultType": "title",
+      "id": 1801911,
+      "name": "Breaking Bad - The Movie",
+      "type": "movie",
+      "year": null,
+      "imdb_id": null,
+      "tmdb_id": 1260224,
+      "tmdb_type": "movie"
+    },
+    {
+      "resultType": "title",
+      "id": 1772044,
+      "name": "Breaking Bad: The Movie",
+      "type": "movie",
+      "year": null,
+      "imdb_id": null,
+      "tmdb_id": 1217466,
+      "tmdb_type": "movie"
+    },
+    {
+      "resultType": "title",
+      "id": 1822702,
+      "name": "Breaking Bad Remake",
+      "type": "movie",
+      "year": null,
+      "imdb_id": null,
+      "tmdb_id": 1290123,
+      "tmdb_type": "movie"
+    },
+    {
+      "resultType": "title",
+      "id": 1780653,
+      "name": "Breaking Bad Universe TRIVIA FACE OFF - Beat Rice VS HN Films",
+      "type": "movie",
+      "year": null,
+      "imdb_id": null,
+      "tmdb_id": 1229872,
+      "tmdb_type": "movie"
+    },
+    {
+      "resultType": "title",
+      "id": 1755197,
+      "name": "Breaking Bad: The Movie",
+      "type": "movie",
+      "year": null,
+      "imdb_id": null,
+      "tmdb_id": 1193090,
+      "tmdb_type": "movie"
+    }
+  ],
+  "people_results": []
+}
